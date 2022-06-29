@@ -22,11 +22,12 @@
 </p>
 
 
-### Key points
-*   
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+### Иом работы
+  
+*   http://happycollections.ru/ - сайт под  ключ 
+*   https://www.yogadress.ru/ - сайт под  ключ 
+*   https://keauty24.by/ ребрендинг
+*   https://myshop-bma85.myinsales.ru/collection/gobeleny-plakaty-i-kartiny - блок с отзывами, динамический рендеринг отзывов с VK
 
 ## 🛠 Technical Stack
 *   HTML, CSS, SCSS, Bootstrap, Flexbox, Grid

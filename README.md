@@ -18,7 +18,7 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:sp.weblife@gmail.com'>sp.weblife@gmail.com</a>
+    <a href='mailto:sp.weblife@gmail.com'>sp.weblife@gmail.com</a>
 </p>
 
 
@@ -28,8 +28,9 @@
 *   https://www.yogadress.ru/ - сайт под  ключ 
 *   https://keauty24.by/ ребрендинг
 *   https://myshop-bma85.myinsales.ru/collection/gobeleny-plakaty-i-kartiny - блок с отзывами, динамический рендеринг отзывов с VK
+*   https://xn----7sbmewglfebgy4c6b0cg.xn--p1ai/cart_items  - наптсания скрипта для скидок и подарка(для полного просмотра функционала надо положить товар в корзину, зарегистрироваться), интеграция с carrot по api  
 
-## 🛠 Technical Stack
+## 🛠 Техническтй стек 
 *   HTML, CSS, SCSS, Bootstrap, Flexbox, Grid
 *   Javascript, ReactJs, VueJs
 *   Gulp, Wabpack, Git

@@ -2,12 +2,12 @@
 # Привет! Меня зовут Сюзанна 👋
 Я много лет занимаюсь вёрсткой и разработкой сайтов на платформе Insales. Имею небольшой опыт работы на Wordpress. 
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=psuzanna&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=psuzanna&show_icons=true&count_private=true"/></a>
+### Что делаю 
+*   Адаптивная , кроссбраузерная вёрстка мактов из Figma, Photoshop
+*   Натяжка вёрстки на Insales, Wordpress
+*   Интеграция сторонних сервисов через api
+*   Написания js скриптов 
 
-</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/syuzanna-papoyan-110b80239">
@@ -21,20 +21,20 @@
 </p>
 
 
-### Иои работы
+### Мои работы
   
 *   http://happycollections.ru/ - сайт под  ключ 
 *   https://www.yogadress.ru/ - сайт под  ключ 
 *   https://keauty24.by/ ребрендинг
-*   https://myshop-bma85.myinsales.ru/collection/gobeleny-plakaty-i-kartiny - блок с отзывами, динамический рендеринг отзывов с VK
+*   https://myshop-bma85.myinsales.ru/collection/gobeleny-plakaty-i-kartiny - блок с отзывами, динамический парсинг отзывов с VK через api 
 *   https://xn----7sbmewglfebgy4c6b0cg.xn--p1ai/cart_items  - написания скрипта для скидок и подарка(для полного просмотра функционала надо положить товар в корзину, зарегистрироваться), интеграция с carrot по api  
 
-## 🛠 Технический стек 
+### 🛠 Технический стек 
 *   HTML, CSS, SCSS, Bootstrap, Flexbox, Grid
 *   Javascript, ReactJs, VueJs
-*   Gulp, Wabpack, Git
+*   Gulp, Wabpack, GitHub
 *   Insales, Wordpress
-*   GitHub
+
 
 
 

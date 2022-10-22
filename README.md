@@ -32,7 +32,8 @@
 
 ### 🛠 Технический стек 
 *   HTML, CSS, SCSS, Bootstrap, Flexbox, Grid
-*   Javascript, ReactJs, VueJs
+*   Javascript, NodeJs, Express ReactJs, VueJs
+*   php
 *   Gulp, Wabpack, GitHub
 *   Insales, Wordpress
 

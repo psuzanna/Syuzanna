@@ -22,7 +22,7 @@
 
 
 ### Мои работы
-  
+*   https://gameorder.herokuapp.com/ - игра на React, Typescript, Next.js 
 *   http://happycollections.ru/ - сайт под  ключ 
 *   https://www.yogadress.ru/ - сайт под  ключ 
 *   https://keauty24.by/ ребрендинг

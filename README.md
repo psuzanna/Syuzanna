@@ -5,15 +5,13 @@
 
 ### Что делаю 
 *   Адаптивная , кроссбраузерная вёрстка мактов из Figma, Photoshop
+*   Написание приложенияй на React + Typescript
 *   Натяжка вёрстки на Insales, Wordpress
 *   Интеграция сторонних сервисов через api
 *   Написания js скриптов 
 
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/syuzanna-papoyan-110b80239">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
    <a href="https://t.me/p_syuzanna">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
@@ -23,6 +21,7 @@
 
 
 ### Мои работы
+*   https://psuzanna.github.io/todo-meneger.github.io/ - таск менеджер на React +Typescript + Firebase
 *   https://gameorder.herokuapp.com/ - игра на React, Typescript, Next.js 
 *   http://happycollections.ru/ - сайт под  ключ 
 *   https://www.yogadress.ru/ - сайт под  ключ 
@@ -33,7 +32,7 @@
 
 ### 🛠 Технический стек 
 *   HTML, CSS, SCSS, Bootstrap, Flexbox, Grid
-*   Javascript, NodeJs, Express ReactJs, VueJs
+*   Javascript, NodeJs, Express ReactJs, VueJs , Typescript
 *   php
 *   Gulp, Wabpack, GitHub
 *   Insales, Wordpress

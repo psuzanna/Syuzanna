@@ -23,13 +23,13 @@
 ### Мои работы
 *   https://psuzanna.github.io/todo-meneger.github.io/ - таск менеджер на React +Typescript + Firebase
 *   https://gameorder.herokuapp.com/ - игра на React, Typescript, Next.js 
-*   http://happycollections.ru/ - сайт под  ключ 
+*   https://caviar-black.ru/ - сайт под  ключ
 *   https://www.yogadress.ru/ - сайт под  ключ 
-*   https://keauty24.by/ ребрендинг
-*   https://myshop-bma85.myinsales.ru/collection/gobeleny-plakaty-i-kartiny - блок с отзывами, динамический парсинг отзывов с VK через api 
-*   https://xn----7sbmewglfebgy4c6b0cg.xn--p1ai/cart_items  - написания скрипта для скидок и подарка(для полного просмотра функционала надо положить товар в корзину, зарегистрироваться), интеграция с carrot по api  
+*   https://raketa.by/ - перенос на Insales 
 *   https://ukrop.tech/ - многоязычный сайт на wordpress, переделка условно-бесплатного шаблона, добавление нового функционала   
-
+*   https://karpov-studio.com/  - сайт под  ключ
+  
+  P. S. - к сожалению много сайтов сейчас не работают 
 ### 🛠 Технический стек 
 *   HTML, CSS, SCSS, Bootstrap, Flexbox, Grid
 *   Javascript, NodeJs, Express ReactJs, VueJs , Typescript

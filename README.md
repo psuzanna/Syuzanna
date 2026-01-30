@@ -1,6 +1,6 @@
 
 # Привет! Меня зовут Сюзанна 
-Я много лет занимаюсь вёрсткой и разработкой сайтов на платформе Insales. Имею небольшой опыт работы на Wordpress. 
+Я много лет занимаюсь вёрсткой и разработкой сайтов на платформе Insales. Имею небольшой опыт работы на Wordpress, 1C Bitrix. 
 Активно изучаю и развиваюсь в сторону front-end и backend разработки - node.js, React, Typescript, Vue, php
 
 ### Что делаю 
@@ -35,7 +35,8 @@
 *   Javascript, NodeJs, Express ReactJs, VueJs , Typescript
 *   php
 *   Gulp, Wabpack, GitHub
-*   Insales, Wordpress
+*   Insales, Wordpress, 1C Bitrix
+*   API
 
 
 

@@ -8,7 +8,8 @@
 *   Написание приложенияй на React + Typescript
 *   Натяжка вёрстки на Insales, Wordpress
 *   Интеграция сторонних сервисов через api
-*   Написания js скриптов 
+*   Написания js скриптов
+*   Написание телеграм ботов
 
 
 <p align='center'>
@@ -28,11 +29,12 @@
 *   https://raketa.by/ - перенос на Insales 
 *   https://ukrop.tech/ - многоязычный сайт на wordpress, переделка условно-бесплатного шаблона, добавление нового функционала   
 *   https://karpov-studio.com/  - сайт под  ключ
+*   https://psuzanna.github.io/sobakarisovaka/ - адаптивная верстка , сборка Webpack + Bootstrap
   
   P. S. - к сожалению много сайтов сейчас не работают 
 ### 🛠 Технический стек 
 *   HTML, CSS, SCSS, Bootstrap, Flexbox, Grid
-*   Javascript, NodeJs, Express ReactJs, VueJs , Typescript
+*   Javascript, NodeJs, Express ReactJs , Typescript
 *   php
 *   Gulp, Wabpack, GitHub
 *   Insales, Wordpress, 1C Bitrix

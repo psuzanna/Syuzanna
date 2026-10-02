@@ -23,13 +23,12 @@
 
 ### Мои работы
 *   https://psuzanna.github.io/todo-meneger.github.io/ - таск менеджер на React +Typescript + Firebase
-*   https://gameorder.herokuapp.com/ - игра на React, Typescript, Next.js 
 *   https://caviar-black.ru/ - сайт под  ключ
+*   https://raketa.by/ - сайт на OpenCart
 *   https://www.yogadress.ru/ - сайт под  ключ 
-*   https://raketa.by/ - перенос на Insales 
 *   https://ukrop.tech/ - многоязычный сайт на wordpress, переделка условно-бесплатного шаблона, добавление нового функционала   
 *   https://karpov-studio.com/  - сайт под  ключ
-*   https://psuzanna.github.io/sobakarisovaka/ - адаптивная верстка , сборка Webpack + Bootstrap
+
   
   P. S. - к сожалению много сайтов сейчас не работают 
 ### 🛠 Технический стек 
